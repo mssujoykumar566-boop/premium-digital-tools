@@ -23,7 +23,7 @@ const Footer = () => {
 
     {/* Product */}
     <div>
-      <h3 className="text-red-400 font-semibold mb-4">Product</h3>
+      <h3 className="text-white-400 font-semibold mb-4">Product</h3>
       <ul className="space-y-2 text-zinc-400 text-sm">
         <li><a href="#" className="hover:text-white">Features</a></li>
         <li><a href="#" className="hover:text-white">Pricing</a></li>
@@ -34,7 +34,7 @@ const Footer = () => {
 
     {/* Company */}
     <div>
-      <h3 className="text-red-400 font-semibold mb-4">Company</h3>
+      <h3 className="text-white-400 font-semibold mb-4">Company</h3>
       <ul className="space-y-2 text-zinc-400 text-sm">
         <li><a href="#" className="hover:text-white">About</a></li>
         <li><a href="#" className="hover:text-white">Blog</a></li>
@@ -45,7 +45,7 @@ const Footer = () => {
 
     {/* Resources */}
     <div>
-      <h3 className="text-red-400 font-semibold mb-4">Resources</h3>
+      <h3 className="text-white-400 font-semibold mb-4">Resources</h3>
       <ul className="space-y-2 text-zinc-400 text-sm">
         <li><a href="#" className="hover:text-white">Documentation</a></li>
         <li><a href="#" className="hover:text-white">Help Center</a></li>
@@ -56,7 +56,7 @@ const Footer = () => {
 
     {/* Social */}
     <div className="flex flex-col items-center sm:items-start">
-      <h3 className="text-red-400 font-semibold mb-4">Social</h3>
+      <h3 className="text-white-400 font-semibold mb-4">Social</h3>
 
       <div className="flex gap-4 text-xl justify-center sm:justify-start">
         <FaFacebook />
