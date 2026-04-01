@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "Resume Builder Pro",
+    "description": "Create professional resumes easily.\nOptimized for ATS systems.",
+    "price": 0,
+    "period": "one-time",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": ["100+ templates", "ATS optimization", "Export to PDF"],
+    "image": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png"
+  },
+  {
+    "id": 2,
+    "name": "Portfolio Maker",
+    "description": "Build stunning portfolios quickly.\nNo coding required.",
+    "price": 9,
+    "period": "monthly",
+    "tag": "best seller",
+    "tagType": "best seller",
+    "features": ["Custom domain", "Responsive design", "SEO optimized"],
+    "image": "https://cdn-icons-png.flaticon.com/512/1055/1055687.png"
+  },
+  {
+    "id": 3,
+    "name": "AI Content Writer",
+    "description": "Generate content with AI.\nPerfect for blogs and marketing.",
+    "price": 19,
+    "period": "monthly",
+    "tag": "new",
+    "tagType": "new",
+    "features": ["Unlimited content", "SEO keywords", "Multiple tones"],
+    "image": "https://cdn-icons-png.flaticon.com/512/4712/4712109.png"
+  },
+  {
+    "id": 4,
+    "name": "Invoice Generator",
+    "description": "Create invoices in seconds.\nManage payments easily.",
+    "price": 5,
+    "period": "monthly",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": ["Auto calculation", "Download PDF", "Client tracking"],
+    "image": "https://cdn-icons-png.flaticon.com/512/2920/2920277.png"
+  },
+  {
+    "id": 5,
+    "name": "Social Media Scheduler",
+    "description": "Schedule posts automatically.\nGrow your audience faster.",
+    "price": 15,
+    "period": "monthly",
+    "tag": "best seller",
+    "tagType": "best seller",
+    "features": ["Multi-platform", "Analytics", "Auto posting"],
+    "image": "https://cdn-icons-png.flaticon.com/512/733/733547.png"
+  },
+  {
+    "id": 6,
+    "name": "Logo Maker AI",
+    "description": "Create logos instantly.\nPerfect for startups.",
+    "price": 25,
+    "period": "one-time",
+    "tag": "new",
+    "tagType": "new",
+    "features": ["AI design", "High resolution", "Brand kit"],
+    "image": "https://cdn-icons-png.flaticon.com/512/1829/1829586.png"
+  },
+  {
+    "id": 7,
+    "name": "Code Snippet Manager",
+    "description": "Save and manage code snippets.\nBoost productivity.",
+    "price": 7,
+    "period": "monthly",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": ["Syntax highlight", "Search filter", "Cloud sync"],
+    "image": "https://cdn-icons-png.flaticon.com/512/2721/2721295.png"
+  },
+  {
+    "id": 8,
+    "name": "Ebook Creator",
+    "description": "Create ebooks easily.\nNo design skills needed.",
+    "price": 12,
+    "period": "monthly",
+    "tag": "best seller",
+    "tagType": "best seller",
+    "features": ["Drag & drop", "Export PDF/ePub", "Templates"],
+    "image": "https://cdn-icons-png.flaticon.com/512/29/29302.png"
+  }
+]
