@@ -26,7 +26,14 @@ const Navbar = ({carts}) => {
     </div>
 
     {/* Logo */}
-    <h3 className="font-bold text-xl ml-2">DigiTools</h3>
+  <div class="flex items-center justify-center">
+    <h1 class="text-2xl md:text-2xl font-black tracking-tighter 
+               bg-gradient-to-r from-purple-600 via-violet-600 to-purple-600 
+               bg-clip-text text-transparent 
+               drop-shadow-lg">
+      DigiTools
+    </h1>
+  </div>
   </div>
 
   {/* Desktop Menu */}
