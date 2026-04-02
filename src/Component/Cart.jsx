@@ -31,7 +31,7 @@ const Cart = ({carts,setCarts}) => {
             <div className='space-y-5 mt-5'>
     
         {
-            carts.map(item => <div className=' border px-10 py-5 rounded-lg' key={item.id}>
+            carts.map(item => <div className=' border  md:px-10 py-5 rounded-lg' key={item.id}>
                 <div className='flex gap-5 items-center justify-between  '>
                     <div className='flex gap-2 items-center'>
                     <img className='w-20 h-20 object-contain' src={item.image} />
@@ -55,7 +55,7 @@ const Cart = ({carts,setCarts}) => {
             <div>$ {totalPrice}</div>
 
            </div>
-          <button onClick={handlePayment} className="btn w-full bg-red-500 text-white p-5 mt-5 rounded-lg text-3xl font-bold">Proceed to checkout</button>
+          <button onClick={handlePayment} className="btn w-full bg-red-500 text-white p-5 mt-5 rounded-lg lg:text-3xl font-bold">Proceed to checkout</button>
         </div>
     );
 };
